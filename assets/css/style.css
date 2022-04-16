@@ -90,3 +90,11 @@ th {
     border: 1px solid black;
     padding: 5px;
 }
+#foot {
+    color: darkred;
+    font-size: 20px;
+    font-weight: bold;
+}
+.imgsize{
+    width:1%
+}
