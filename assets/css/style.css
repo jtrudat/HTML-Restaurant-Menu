@@ -53,7 +53,7 @@ nav a:hover {
     color: darkred;
 }
 
-nav a.active {
+.active {
     background-color: green;
     color: white
 }
